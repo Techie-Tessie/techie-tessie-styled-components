@@ -1,2 +1,2 @@
 # techie-tessie-styled-components
-Created with CodeSandbox
+Tutorial for React styled components that illustrates the content of our YouTube video. 
